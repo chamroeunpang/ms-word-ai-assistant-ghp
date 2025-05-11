@@ -5,7 +5,7 @@
   <ProviderName>PCRDev</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="AIAssistant"/>
-  <Description DefaultValue="A template to get started."/>
+  <Description DefaultValue="AI Assistant in Microsoft Word using any AI models"/>
   <IconUrl DefaultValue="https://chamroeunpang.github.io/ms-word-ai-assistant-ghp/assets/AIAssistantIcon32x32.png"/>
   <HighResolutionIconUrl DefaultValue="https://chamroeunpang.github.io/ms-word-ai-assistant-ghp/assets/AIAssistantIcon64x64.png"/>
   <SupportUrl DefaultValue="https://chamroeunpang.github.io/ms-word-ai-assistant-ghp"/>
