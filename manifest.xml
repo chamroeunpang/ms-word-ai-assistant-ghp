@@ -8,9 +8,9 @@
   <Description DefaultValue="AI Assistant in Microsoft Word using any AI models"/>
   <IconUrl DefaultValue="https://chamroeunpang.github.io/ms-word-ai-assistant-ghp/assets/AIAssistantIcon32x32.png"/>
   <HighResolutionIconUrl DefaultValue="https://chamroeunpang.github.io/ms-word-ai-assistant-ghp/assets/AIAssistantIcon64x64.png"/>
-  <SupportUrl DefaultValue="https://localhost:3000"/>
+  <SupportUrl DefaultValue="https://chamroeunpang.github.io/ms-word-ai-assistant-ghp/assistant.html"/>
   <AppDomains>
-    <AppDomain>https://localhost:3000</AppDomain>
+    <AppDomain>https://chamroeunpang.github.io/ms-word-ai-assistant-ghp/assistant.html</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Document"/>
